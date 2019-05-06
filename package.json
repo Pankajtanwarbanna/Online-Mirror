@@ -1,0 +1,14 @@
+{
+  "name": "online-mirror",
+  "version": "1.0.0",
+  "description": "Online mirror with some other basic functionality",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pankaj Tanwar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
